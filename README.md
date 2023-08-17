@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/d6/19/a6/d619a64645bf2cbf8f32f9063cf29ac5.jpg)]
+![MasterHead](https://i.pinimg.com/564x/cc/e1/b8/cce1b8e0d0c8d48c99064dbc764f5c9c.jpg)
 <h1 align="center">Hi 👋, I'm Ananya Mishra</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
